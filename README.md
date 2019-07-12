@@ -8,7 +8,7 @@
 
 ## Sample Code 
 1.Tkinter Window
-  `
+``
   root = tk.Tk()
 root.title("Management")
 ``
